@@ -1,0 +1,4 @@
+.window {
+    resize: both;  /* Allow resizing both width and height */
+    overflow: auto; /* Enable scrolling if content overflows */
+  }
