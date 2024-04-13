@@ -5,3 +5,8 @@
     left: 20px;
     top: 20px;
   }
+  .title-bar-text{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
