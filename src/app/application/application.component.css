@@ -2,7 +2,7 @@
     resize: both;  /* Allow resizing both width and height */
     overflow: auto; /* Enable scrolling if content overflows */
     position: absolute;
-    left: 20px;
+    left: 300px;
     top: 20px;
   }
   .title-bar-text{
