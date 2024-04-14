@@ -1,3 +1,4 @@
+
 .desktop {
 
     position: absolute;
@@ -15,4 +16,13 @@
     background-position: center;
     width: 100%;
     height: 100%;
+}
+.start{
+    background-image: url('../assets/start/start-n.png');
+}
+.start:hover{
+    background-image: url('../assets/start/start-h.png');
+}
+.start:active{
+    background-image: url('../assets/start/start-c.png');
 }

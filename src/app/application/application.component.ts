@@ -9,7 +9,8 @@ import {CdkDrag, CdkDragHandle} from '@angular/cdk/drag-drop';
   imports: [CdkDrag, CdkDragHandle],
 
 })
+
 export class ApplicationComponent {
-  
+
 
 }
